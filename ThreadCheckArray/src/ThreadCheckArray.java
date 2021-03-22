@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 /**
  * @author Nadav Dery
-
+//
  */
 class ThreadCheckArray implements Runnable 
 {
