@@ -12,7 +12,7 @@ public class SharedData
 	private boolean flag;
 	private final int b;
 	
-	/**Contructor of the class
+	/**Contructor of the class SharedData
 	 * @param array2  array of Integers that if we adding some of them we might get the value of b
 	 * @param b  the number we check of adding one or more elements
 	 */
